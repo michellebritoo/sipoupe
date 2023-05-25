@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">sipoupe</string>
+
+    <string name="label_email">Email</string>
+    <string name="label_password">Senha</string>
+    <string name="bt_login">Entrar</string>
+    <string name="bt_signup">Cadastre-se</string>
+    <string name="label_recovery_password">Esqueceu a senha?</string>
 </resources>
